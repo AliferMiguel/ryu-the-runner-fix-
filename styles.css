@@ -1,3 +1,5 @@
-<html lang="pt-BR"
- <head>
- <link rel='stylesheet' href="styles.css"
+body{ 
+    color:white; /*cor-da-fonte:;*/
+    background-color: black;    /* cor-fundo: preto* /
+    margin: 0px;                /*margem-extrema-elemento: 0pixels
+}
